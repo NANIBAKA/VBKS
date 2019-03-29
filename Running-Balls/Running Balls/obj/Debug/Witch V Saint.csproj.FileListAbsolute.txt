@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\bin\Debug\Running Balls.exe.config
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\bin\Debug\Running Balls.exe
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\bin\Debug\Running Balls.pdb
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Witch V Saint.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.EndGame.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.Form1.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.gameScreen.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.helpScreen.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.MainScreen.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running_Balls.Properties.Resources.resources
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Witch V Saint.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Witch V Saint.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running Balls.exe
+C:\Users\User\Source\Repos\Running-Balls\Running Balls\obj\Debug\Running Balls.pdb
